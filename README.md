@@ -1,7 +1,7 @@
 <div align="center">
    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin: 0 auto;">
       <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='70' style="margin: 5px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=20&duration=4000&pause=100&color=FF0000&center=true&vCenter=true&multiline=true&width=320&height=60&lines=Hello+hello;I'm+Nuncvc1v0" style="max-width: 10%;" />
+      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=100&size=10&duration=4000&pause=100&color=FF0000&center=true&vCenter=true&multiline=true&width=320&height=60&lines=Hello+hello;I'm+Nuncvc1v0" style="max-width: 10%;" />
       <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='70' style="margin: 5px;">
    </div>
 </div>
